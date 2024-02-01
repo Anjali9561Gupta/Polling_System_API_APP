@@ -23,7 +23,7 @@ using Express, Nodejs, MongoDB.
 - **Youtube Video URL**: https://youtu.be/U9jCoAZ93MM
 - **Hosting Link**: https://polling-system-app.onrender.com
 - 
-- **Sample Postman Documentation Link**: https://documenter.getpostman.com/view/9062378/2s8YevqB89
+- **Sample Postman Documentation Link**: https://documenter.getpostman.com/view/32703797/2s9Yyti2Mu
 
 <br/>
 
