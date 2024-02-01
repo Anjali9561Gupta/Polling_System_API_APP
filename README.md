@@ -73,32 +73,6 @@ using Express, Nodejs, MongoDB.
 
 For development, you will only need Node.js and a node global package installed in your environement and mongodb for database.
 
-### Node
-
-- Node Installtion on Windows
-  Go on to the [official Node.js website](https://nodejs.org/en/) and download the installer. Also, be sure to have `.git` available in your PATH,
-  `npm` might need it (You can find [git](https://git-scm.com/)).
-- Other operating System
-  You can find more information about the installation on the official [Node.js website](https://nodejs.org/en/) and the official [NPM website](https://www.npmjs.com/).
-
-If the installation was successful, you should be able to run the following command.
-
-```
-$ node --version
-v16.13.0
-
-$ npm --version
-8.2.0
-```
-
-If you need to update `npm`, you can make it using `npm`! Cool right? After running the following command, just open again the command line and be happy.
-
-```
-$ npm install npm -g
-
-```
-
-<br/>
 
 ## To run the project on your local machine:
 
@@ -107,7 +81,7 @@ $ npm install npm -g
 2. Change the current working directory to the location where you want the cloned directory.
 
    ```
-   $ git clone https://github.com/kartiksarwan2017/Polling_System_API
+   $ git clone https://github.com/Anjali9561Gupta/Polling_System_API_APP.git
 
    ```
 
@@ -135,33 +109,3 @@ Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
 - one more setting
 - Another one more setting
 
-## Screens
-
-<p align="justify">
-   
-### Create Question:    
-<img src="/screenshots/CreateQuestion.PNG">
-<img src="/screenshots/CreateQuestion2.PNG">
-   
-### Add options to a question:
-<img src="/screenshots/AddOptions.PNG">
-   
-### Add a vote to an option of question:    
-<img src="/screenshots/AddVotestoOption.PNG">
-
-### Delete a question:
-
-<img src="/screenshots/DeleteQuestion.PNG">
-<img src="/screenshots/DeleteQuestion_1.PNG">
-
-### Delete an option:
-
-<img src="/screenshots/OptionDelete_1.PNG">
-<img src="/screenshots/DeleteOption1.PNG">
-
-### View a question with it’s options and all the votes given to it:
-
-<img src="/screenshots/ViewQuestionAndItsOptions.PNG">
-
-</p>
-<br/>
